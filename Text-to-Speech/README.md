@@ -45,7 +45,7 @@ A portable text-to-speech application with OCR capabilities that can run from a 
 After installation, your folder structure should look like this:
 
 ```
-text-to-speech-Custom-Dyslexic-Reader/
+text-to-speech/
 ├── .venv/                      # Python virtual environment (created by setup)
 ├── ffmpeg/                     # FFmpeg executables
 │   ├── ffmpeg.exe
